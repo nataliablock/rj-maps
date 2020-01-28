@@ -1,11 +1,14 @@
-###### Coleta de dados/ elaboração de bancos ####
+####################################################################
+######         Coleta de dados/ limpeza de bancos             ######
+#####  Votações por partido e cargo para os municípios do RJ  ######
+####################################################################
 
 #Apontando diretório
-setwd("XXX")
+setwd("~/seudiretorio")
 
 #Vou usar o pacote electionsBR para fazer o download dos dados. 
 #Neste script eu trato os dados para governador, senador, deputado federal e 
-#estadual. 
+#estadual. No entanto farei os mapas apenas para os cargos legislativos
 
 ############  DADOS DE VOTACAO  ###############
 library(pacman)
