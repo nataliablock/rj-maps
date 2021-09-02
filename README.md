@@ -1,9 +1,8 @@
 # rj-maps
-Collecting, cleaning, structuring and plotting data for 6 legislative elections in the state of Rio de Janeiro
+Collecting, cleaning and structuring data for 6 legislative elections in the state of Rio de Janeiro
 
-**[In Progress]** 
 
-Objective: create automated, functional R scripts to collect, clean, structure data and plot maps for legislative elections per party in the state of Rio de Janeiro. Positions: Chamber of Deputies, Senate and State Assembly; electoral years: 1998,2002,2006,2010,2014,2018.  
+Objective: create automated, functional R scripts to collect, clean and structure data for legislative elections per party in the state of Rio de Janeiro. Positions: Chamber of Deputies, Senate and State Assembly; electoral years: 1998,2002,2006,2010,2014,2018.  
 
 In this repository you will find the following R scripts:
 
